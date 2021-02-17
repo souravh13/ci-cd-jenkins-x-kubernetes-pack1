@@ -68,5 +68,5 @@ velero:
   ttl: ""
 versionStream:
   ref: master
-  url: https://github.com/jenkins-x/jenkins-x-versions.git
+  url: https://github.com/souravh13/ci-cd-jenkins-x-kubernetes-pack1.git
 webhook: prow
